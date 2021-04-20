@@ -64,5 +64,4 @@ Base class for all models. DAO instantiation & double-encapsulation, MySQL opera
 
 See `/core/Model.php` for more details.
 
-
-2020 By Newiz
+> 2020 By Newiz
