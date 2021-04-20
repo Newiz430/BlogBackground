@@ -29,7 +29,8 @@ Backend blog project based on `MVC framework` (Model - View - Controller).
 
 ## MySQL connection
 
-**PHP Data Objects (PDO)** database abstraction layer is double-encapsulated to fit backend transactions better. See `/core/Dao.php` for more details. 
+**PHP Data Objects (PDO)** database abstraction layer is double-encapsulated to fit backend transactions better. 
+See `/core/Dao.php` for more details. 
 
 
 ## Views
@@ -51,9 +52,11 @@ Click [here](https://www.smarty.net/docs/en/) to get more informations about Sma
 
 ## Public controller
 
-Base class for all controllers. Smarty method initialization & double-encapsulation, success / error page, etc. See `/core/Controller.php` for more details.
+Base class for all controllers. Smarty method initialization & double-encapsulation, success / error page, etc. 
+See `/core/Controller.php` for more details.
 
 
 ## Public Model
 
-Base class for all models. DAO instantiation & double-encapsulation, MySQL operation methods, etc. See `/core/Model.php` for more details.
+Base class for all models. DAO instantiation & double-encapsulation, MySQL operation methods, etc. 
+See `/core/Model.php` for more details.
