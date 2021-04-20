@@ -63,3 +63,6 @@ See `/core/Controller.php` for more details.
 Base class for all models. DAO instantiation & double-encapsulation, MySQL operation methods, etc. 
 
 See `/core/Model.php` for more details.
+
+
+2020 By Newiz
