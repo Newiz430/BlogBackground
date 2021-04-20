@@ -1,0 +1,4 @@
+[22-Aug-2020 18:17:24 Asia/Shanghai] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:D:\blog\app\admin\view\Public\sidebar.html"  on line 16 "<li {if strtolower(C) eq "category" strtolower(A) eq "index"}class="active"{/if}><a href="index.php?p=admin&c=category"><img src="{P}/img/icons/sidemenu/file.png" width="16" height="16" alt="icon"/>分类列表</a></li>" too many shorthand attributes <-- 
+  thrown in D:\blog\vendor\smarty\sysplugins\smarty_internal_templatecompilerbase.php on line 16
+[22-Aug-2020 18:20:05 Asia/Shanghai] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:D:\blog\app\admin\view\Public\sidebar.html"  on line 50 "</div>" unclosed {if} tag <-- 
+  thrown in D:\blog\vendor\smarty\sysplugins\smarty_internal_templatecompilerbase.php on line 50
